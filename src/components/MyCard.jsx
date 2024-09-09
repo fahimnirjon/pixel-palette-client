@@ -111,7 +111,7 @@ const MyCard = ({ product, setItems, products }) => {
 
 MyCard.propTypes = {
   product: PropTypes.object.isRequired,
-  products: Proptypes.array.isRequired,
+  products: PropTypes.array.isRequired,
   setItems: Proptypes.any.isRequired,
 };
 export default MyCard;
