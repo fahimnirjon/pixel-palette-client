@@ -27,7 +27,7 @@ const Footer = () => {
               </li>
               <li>
                 <a rel="noopener noreferrer" href="#">
-                  support@gmail.com
+                  fahimnirjon21@gmail.com
                 </a>
               </li>
               <li>
