@@ -1,4 +1,4 @@
-import Proptypes from "prop-types";
+import PropTypes from "prop-types";
 const Slider = ({ slider }) => {
   const { photo, category, subcategory, description } = slider;
   return (
@@ -24,6 +24,6 @@ const Slider = ({ slider }) => {
 };
 
 Slider.propTypes = {
-  slider: Proptypes.object.isRequired,
+  slider: PropTypes.object.isRequired,
 };
 export default Slider;
