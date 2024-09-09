@@ -107,7 +107,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="py-6 text-sm text-center dark:text-gray-600">
-        © Copyright 1986. All Rights Reserved.
+        © Copyright 2024. All Rights Reserved.
       </div>
     </footer>
   );
