@@ -1,4 +1,4 @@
-import Proptypes from "prop-types";
+import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 const CraftCard = ({ prod }) => {
   const { photo, _id, category, subcategory, description } = prod;
@@ -35,6 +35,6 @@ const CraftCard = ({ prod }) => {
 };
 
 CraftCard.propTypes = {
-  prod: Proptypes.object.isRequired,
+  prod: PropTypes.object.isRequired,
 };
 export default CraftCard;
