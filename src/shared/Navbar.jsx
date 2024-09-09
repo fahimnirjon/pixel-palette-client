@@ -137,7 +137,7 @@ const Navbar = () => {
               </div>
             </div>
            <Link to="/">
-           <button className=" font-bold text-3xl text-[#ff9409]">
+           <button className=" font-bold uppercase text-3xl text-[#ff9409]">
               Pixel Palette
             </button>
            </Link>
