@@ -38,7 +38,7 @@ const NotFoundPage = () => {
                   to="https://cloud.google.com/terms/tssg/firebase"
                 >
                   {" "}
-                  "page not found support guide"
+                  page not found support guide
                 </Link>{" "}
               </span>
               for troubleshooting tips.
