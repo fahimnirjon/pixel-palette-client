@@ -10,7 +10,7 @@ const Footer = () => {
           >
             <div className="flex items-center justify-center w-12 h-12 rounded-full dark:bg-violet-600"></div>
             <span className="self-center text-2xl font-semibold">
-              Arts & Crafts
+              PIXEL PALETTE
             </span>
           </a>
         </div>
@@ -107,8 +107,8 @@ const Footer = () => {
         </div>
       </div>
       <div className="py-6 text-sm text-center dark:text-gray-600">
-        © Copyright 2024. All Rights Reserved.
-        <span>Created By <span className="text-xl text-pink-400">Fahim Nirjon</span></span>
+        © Copyright 2024. All Rights Reserved. 
+        <span>Created By <span className="text-xl text-red-400">Fahim Nirjon</span></span>
       </div>
     </footer>
   );
