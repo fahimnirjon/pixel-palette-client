@@ -1,6 +1,6 @@
 import { FaUserEdit } from "react-icons/fa";
 import { RiDeleteBin2Fill } from "react-icons/ri";
-import Proptypes from "prop-types";
+import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 import Swal from "sweetalert2";
 const MyCard = ({ product, setItems, products }) => {
@@ -110,7 +110,7 @@ const MyCard = ({ product, setItems, products }) => {
 };
 
 MyCard.propTypes = {
-  product: Proptypes.object.isRequired,
+  product: PropTypes.object.isRequired,
   products: Proptypes.array.isRequired,
   setItems: Proptypes.any.isRequired,
 };
