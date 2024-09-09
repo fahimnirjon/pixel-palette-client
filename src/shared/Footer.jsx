@@ -108,6 +108,7 @@ const Footer = () => {
       </div>
       <div className="py-6 text-sm text-center dark:text-gray-600">
         © Copyright 2024. All Rights Reserved.
+        <span>Created By <span className="text-xl text-pink-400">Fahim Nirjon</span></span>
       </div>
     </footer>
   );
