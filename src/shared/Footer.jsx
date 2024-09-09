@@ -39,7 +39,7 @@ const Footer = () => {
           </div>
           <div className="space-y-3">
             <h3 className="tracking-wide uppercase dark:text-gray-900">
-              Ruels & Conditions
+              Rules & Conditions
             </h3>
             <ul className="space-y-1">
               <li>
