@@ -1,4 +1,4 @@
-import Proptypes from "prop-types";
+import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 
 const PaintingCard = ({ painting }) => {
@@ -21,6 +21,6 @@ const PaintingCard = ({ painting }) => {
 };
 
 PaintingCard.propTypes = {
-  painting: Proptypes.object.isRequired,
+  painting: PropTypes.object.isRequired,
 };
 export default PaintingCard;
