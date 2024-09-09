@@ -22,7 +22,7 @@ const Footer = () => {
             <ul className="space-y-1">
               <li>
                 <a rel="noopener noreferrer" href="#">
-                  <span> 01873600588</span>
+                  <span> 01713865204</span>
                 </a>
               </li>
               <li>
