@@ -68,7 +68,7 @@ const MyCard = ({ product, setItems, products }) => {
         <div className="flex justify-between items-center">
           <div className="mt-4 space-y-1">
             <p>
-              <strong>Publist At : </strong>
+              <strong>Published At : </strong>
               {timestamp.split("T")[0]}
             </p>
             <p>
